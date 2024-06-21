@@ -1,6 +1,6 @@
-# LangGraph Agent Template
+# Python + Poetry Template
 
-A template for a new LangGraph agent using poetry
+A template for a new Python + Poetry Project
 
 ## How to use
 
