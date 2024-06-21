@@ -3,4 +3,6 @@
 A template for a new LangGraph agent using poetry
 
 ## How to use
-Once the template is in your repository. Renam
+
+1. Execute `PROJECT="your new project name" make rename` to rename packages & `pyproject.toml` with your new project name.
+2. Happy coding
