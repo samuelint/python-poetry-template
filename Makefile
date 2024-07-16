@@ -1,5 +1,5 @@
 .PHONY: install
-test:
+install:
 	poetry install
 
 # PROJECT="another-project" make rename
